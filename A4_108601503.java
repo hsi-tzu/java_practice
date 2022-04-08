@@ -27,6 +27,9 @@ class Character{
     String name;
     int level;
     int health;
+
+
+
     String getName(){
         return name;
     }
